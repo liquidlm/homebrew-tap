@@ -6,8 +6,8 @@
 class Liquidlm < Formula
   desc "Command-line interface for LiquidLM knowledge vaults"
   homepage "https://liquidlm.com"
-  url "https://registry.npmjs.org/@liquidlm/cli/-/cli-0.1.3.tgz"
-  sha256 "c6855b9ffffe180db431aaed5a51923a3884ae8d3e913aa2f6115f186d2f8df8"
+  url "https://registry.npmjs.org/@liquidlm/cli/-/cli-0.1.4.tgz"
+  sha256 "f413a8e2c1eceef442087f34e60bd53ab56f725829f2138c2d606fae14d5a90e"
   license "MIT"
 
   depends_on "node"
